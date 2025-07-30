@@ -6,15 +6,7 @@
 
 ### Website FAQ
 
-Can I use the Shitty List template?
-
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
-
-The website isn't loading! What can I do?
-
-- Since no webhost is perfect, downtime is expected. You can either wait till the
-  website is back online or you can do some behind the scene stuff and run it
-  locally.
+Welcome to ruby list repo why are you here
 
 ---
 
