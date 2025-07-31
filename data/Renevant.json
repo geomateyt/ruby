@@ -1,0 +1,18 @@
+{
+    "id": 58161496,
+    "name": "Renevant",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "Stray",
+    "verification": "https://www.youtube.com/watch?v=6NIKZRCYJjI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Jyvl",
+            "link": "https://www.youtube.com/watch?v=3yLeh7XeOP0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
