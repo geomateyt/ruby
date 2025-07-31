@@ -8,11 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      {
-      "user": "Stray",
-      "link": "https://www.youtube.com/watch?v=rvu_OdlCluA",
-      "percent": 100
-      "hz": 240
-      }
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=rvu_OdlCluA",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
