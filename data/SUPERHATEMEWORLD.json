@@ -1,0 +1,24 @@
+{
+    "id": 80966089,
+    "name": "SUPERHATEMEWORLD",
+    "author": "icEDCave",
+    "creators": ["icEDCave"],
+    "verifier": "Anthony",
+    "verification": "https://www.youtube.com/watch?v=zASAoK6f2iE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+      {
+      "user": "dizbro",
+      "link": "https://www.youtube.com/watch?v=_EZg2H2YqrA",
+      "percent": 100,
+      "hz": 240
+      }
+      {
+      "user": "Luxury",
+      "link": "https://www.youtube.com/watch?v=XFXxLZwLYsc&t=3s",
+      "percent": 100,
+      "hz": 240
+      }
+    ]
+}
