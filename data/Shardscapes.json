@@ -1,0 +1,18 @@
+{
+    "id": 91180835,
+    "name": "Shardscapes",
+    "author": "ItzKiba",
+    "creators": ["Kiba"],
+    "verifier": "dizbro",
+    "verification": "https://www.youtube.com/watch?v=cCOzK00R9xY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=2VIPvyXmmTg",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
