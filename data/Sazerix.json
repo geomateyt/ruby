@@ -1,0 +1,18 @@
+{
+    "id": 86787878,
+    "name": "Sazerix",
+    "author": "Zeptrus",
+    "creators": ["Zeptrus"],
+    "verifier": "Anthony",
+    "verification": "https://www.youtube.com/watch?v=TsNpyWbjSyI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dizbro",
+            "link": "https://www.youtube.com/watch?v=muUn8cfaAGk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
