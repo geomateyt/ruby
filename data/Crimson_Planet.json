@@ -2,7 +2,7 @@
     "id": 57436521,
     "name": "Crimson Planet",
     "author": "TrueOmega",
-    "creators": ["TrueOmega, CreamPie, TrusTa, etc."],
+    "creators": ["AimTheSame", "TrusTa", "YakobNugget", "surreki", "Endlevel", "MrPPs", "Terron", "nikroplays", "TrueOmega", "Zimnior12", "Dz3ser", "Metalface221"],
     "verifier": "Jyvl",
     "verification": "https://www.youtube.com/watch?v=2TZEQAXavs4",
     "percentToQualify": "100",
@@ -13,6 +13,6 @@
             "link": "https://www.youtube.com/watch?v=VmQJfiRDyZc",
             "percent": 100,
             "hz": 240
-        },
+        }
     ]
 }
