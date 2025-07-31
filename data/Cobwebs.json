@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "Crimson Planet",
+    "author": "NineDice",
+    "creators": ["NineDice", "Taika"],
+    "verifier": "Jyvl",
+    "verification": "https://www.youtube.com/watch?v=FoQbHU8dd-M",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Stray",
+            "link": "https://www.youtube.com/watch?v=cbnooq5IS3s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
